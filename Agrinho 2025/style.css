@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logotipo {
+    width: 222px;
+    height: 71px;
+    align-items: center;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: #eaf3ff;
+    background-image: url(./imagens/imagem\ de\ capa.jpg);
+    width: 100%;
+    text-align: center;
+    background-position: center center;
+    line-height: 30px;
+    margin: 0;
+    
+}
+
+body h1 {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+body p {
+    line-height: 15px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.bloco {
+    background-color: #000d1e;
+    width: 100%;
+    margin: 0;
+}
+
+.arvore{
+    margin: 0;
+    width: 100%;
+}
+
+.tituloAgrofloresta{
+    width: 75%;
+}
+
+.bloco p{
+    line-height: 15px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: #eaf3ff;
+    text-align: center;
+}
+
+.botao{
+background-color: #0d4aff;
+color: #eaf3ff;
+font-style: normal;
+font-family: "Inter", sans-serif;
+line-height: 15px;
+padding: 6px 6px 6px 6px;
+border-radius: 20px;
+border-width: 0;
+}
+
+.cooperativismo{
+    margin: 0;
+    width: 93%;
+}
